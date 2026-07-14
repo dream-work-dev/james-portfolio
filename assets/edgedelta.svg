@@ -1,0 +1,21 @@
+<svg width="350"
+height="120"
+xmlns="http://www.w3.org/2000/svg">
+
+
+<polygon
+points="60,20 110,60 60,100 20,60"
+fill="#38bdf8"/>
+
+
+<text x="130"
+y="70"
+fill="white"
+font-size="32">
+
+Edge Delta
+
+</text>
+
+
+</svg>

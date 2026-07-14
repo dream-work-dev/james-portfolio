@@ -1,0 +1,80 @@
+<svg width="700" height="500"
+xmlns="http://www.w3.org/2000/svg">
+
+
+<defs>
+
+<linearGradient id="line">
+<stop stop-color="#38bdf8"/>
+<stop offset="1" stop-color="#6366f1"/>
+</linearGradient>
+
+</defs>
+
+
+<circle cx="350" cy="250" r="80"
+fill="#111827"
+stroke="#38bdf8"
+stroke-width="3"/>
+
+
+<text x="290" y="255"
+fill="white"
+font-size="22">
+Cloud
+</text>
+
+
+<g stroke="url(#line)"
+stroke-width="2">
+
+
+<line x1="350" y1="170"
+x2="150" y2="80"/>
+
+
+<line x1="350" y1="170"
+x2="550" y2="80"/>
+
+
+<line x1="270" y1="250"
+x2="80" y2="250"/>
+
+
+<line x1="430" y1="250"
+x2="620" y2="250"/>
+
+
+<line x1="350" y1="330"
+x2="150" y2="420"/>
+
+
+<line x1="350" y1="330"
+x2="550" y2="420"/>
+
+
+</g>
+
+
+
+<g fill="#1e293b"
+stroke="#38bdf8">
+
+
+<circle cx="150" cy="80" r="35"/>
+
+<circle cx="550" cy="80" r="35"/>
+
+<circle cx="80" cy="250" r="35"/>
+
+<circle cx="620" cy="250" r="35"/>
+
+<circle cx="150" cy="420" r="35"/>
+
+<circle cx="550" cy="420" r="35"/>
+
+
+</g>
+
+
+</svg>

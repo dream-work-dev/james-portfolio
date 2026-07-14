@@ -1,0 +1,41 @@
+<svg width="300" height="120"
+xmlns="http://www.w3.org/2000/svg">
+
+
+<rect width="55"
+height="55"
+x="20"
+y="20"
+fill="#f25022"/>
+
+
+<rect width="55"
+height="55"
+x="85"
+y="20"
+fill="#7fba00"/>
+
+
+<rect width="55"
+height="55"
+x="20"
+y="85"
+fill="#00a4ef"/>
+
+
+<rect width="55"
+height="55"
+x="85"
+y="85"
+fill="#ffb900"/>
+
+
+<text x="170"
+y="70"
+fill="white"
+font-size="28">
+Microsoft
+</text>
+
+
+</svg>
