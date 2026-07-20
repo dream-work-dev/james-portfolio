@@ -126,14 +126,6 @@ export default function Home() {
 
             <div className="actions" aria-label="Professional links">
               <a
-                href="https://flowcv.com/resume/mhgk6gs2d235"
-                target="_blank"
-                rel="noreferrer"
-                className="button primary"
-              >
-                View resume <span aria-hidden="true">↗</span>
-              </a>
-              <a
                 href="https://github.com/JASchilz"
                 target="_blank"
                 rel="noreferrer"
